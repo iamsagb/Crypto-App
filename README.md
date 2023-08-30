@@ -22,7 +22,6 @@ Open the project in Xcode.
 
 Build and run the app on the iOS simulator or a physical device running iOS 15.0 or later.
 
-Contributions
 Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository and submit a pull request.
 
 License
